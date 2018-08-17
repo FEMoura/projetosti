@@ -1,0 +1,24 @@
+{
+  "name": "projetosti",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FEMoura/projetosti.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FEMoura/projetosti/issues"
+  },
+  "homepage": "https://github.com/FEMoura/projetosti#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "gulp": "^3.9.1",
+    "http-status-cats": "^1.0.0"
+  }
+}
